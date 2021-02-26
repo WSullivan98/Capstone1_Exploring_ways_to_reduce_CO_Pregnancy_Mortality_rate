@@ -25,5 +25,5 @@ if __name__ == '__main__':
     ax.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%', shadow=True, startangle=90)
     ax.axis('equal')
     ax.set_title('Causes of Pregnancy-Associated Deaths\n 2008-2016')
-    plt.show()
+    #plt.show()
     plt.savefig('../images/causes_pie.png')

@@ -19,11 +19,11 @@ if __name__ == '__main__':
     fig, ax =plt.subplots(figsize=(20,13))
     x = df['Rates']
     y = df['Country']
-    ax.set_title("OECD Pregnancy Mortality rates")
+    ax.set_title("OECD Pregnancy Mortality rates\n")
     ax.set_xlabel('Mortalities per 100,000 Births')
     ax.set_ylabel('OECD Countries')
-    ax.barh(y, width=x, height=0.4, color='b')
-
-    plt.show()
+    bars = ax.barh(y, width=x, height=0.4, color='b')
+    bars[2].set_color('r')
+    #plt.show()
 
     plt.savefig('../images//OECD_Pregnancy_Mortality_Rates.png')

@@ -12,10 +12,6 @@ import functions as fn
 # Purpose of the script is to read in data from the Anschutz study and produce visuals
 
 
-
-
-
-
 if __name__ == '__main__':
 
     df = pd.read_csv('../data/CU_Anschutz_PAMR_2014-2016.csv')
@@ -34,5 +30,5 @@ if __name__ == '__main__':
     ax.set_title("Colorado's Pregnancy Associated Mortality Rate \n")
     ax.plot(x,y, label='PAMR')
     plt.legend()
-    plt.show()
+    #plt.show()
     plt.savefig('../images/co_pamr.png')

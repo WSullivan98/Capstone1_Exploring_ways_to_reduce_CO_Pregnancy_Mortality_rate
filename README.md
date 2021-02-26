@@ -1,6 +1,4 @@
-# Capstone1_Exploring_ways_to_reduce_CO_Pregnancy_Mortality_rate
-
-# Analyzing and improving Colorado's pregnancy mortality rate
+# Capstone1: Exploring ways to reduce CO Pregnancy Mortality rate
 
 
 
@@ -8,5 +6,34 @@ Colorado loses about 7 expecting or recent mothers each year.  The metric to tra
 
 <div align="center">
 <img src='images/co_pamr.png' height='400'>
+</div>
+<br>
+
+
+<div align="center">
+<img src='images/causes_pie.png' height='400'>
+</div>
+<br>
+
+
+<div align="center">
+<img src='images/OECD_Pregnancy_Mortality_Rates.png' height='400'>
+</div>
+<br>
+
+
+<div align="center">
+<img src='images/SAMHSA_all_facilities.png' height='400'>
+</div>
+<br>
+
+
+<div align="center">
+<img src='images/sc_and_th.png' height='400'>
+</div>
+<br>
+
+<div align="center">
+<img src='images/sc_map.png' height='400'>
 </div>
 <br>
