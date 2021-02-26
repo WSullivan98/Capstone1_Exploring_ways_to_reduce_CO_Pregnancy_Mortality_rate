@@ -39,7 +39,7 @@ So this brings us to our question:
 We will address the problem first from a top down perspective:
 
 ## Governance: 
-The Colorado "Maternal Mortality Review Committee' started meeting in 1993 but wasn't made official by the state until 2018 becoming the 41st state to do so. The MMRC holds regular meetings, commissions studies and regularly reviews the efficacy of Colorado initiatives to reduce this the growing pregnancy mortality rate.
+The Colorado "Maternal Mortality Review Committee' (MMRC) started meeting in 1993 but wasn't made official by the state until 2018 becoming the 41st state to do so. The MMRC holds regular meetings, commissions studies and regularly reviews the efficacy of Colorado initiatives to reduce this the growing pregnancy mortality rate.
 ## Funding: 
 For over forty years Colorado has had a special medicaid funding program called "Special Connections" which provide up to 12 months of residential substance abuse treatment for expecting and recent mothers.
 
