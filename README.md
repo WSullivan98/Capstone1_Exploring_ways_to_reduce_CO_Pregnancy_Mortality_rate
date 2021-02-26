@@ -34,7 +34,7 @@ Colorado University Anschutz Medical Campus conducted the studies shown above th
 
 So this brings us to our question: 
 
-# What is Colorado doing to help pregnant women with substance abuse issues, and, more importantly, how can Colorado improve on what it is currently doing.
+# What is Colorado doing to help pregnant women with substance abuse issues, and, more importantly, how can Colorado improve on what it is currently doing?
 
 We will address the problem first from a top down perspective:
 
@@ -55,7 +55,7 @@ The dataset is 506 rows by 41 columns and does have standardized categorical val
 
 * The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last data on beds I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
 
-* lastly, the dataset didn't have all the "Special Connections Facilities" which I had to port into the dataset.
+* Lastly, the dataset didn't have all the "Special Connections Facilities" which had to port into the dataset.
 
 ## Care Facilities:
 Colorado has over 506 different treatment facilities listed in the SAMHSA database. The different categorial types are listed below showing the showing the different types of treatment but also illustrates how much a consumer has to learn about the space in order to appropriately select the treatment facility of best fit.
@@ -70,7 +70,7 @@ The facilities as a whole provide a very good amount of treatment covereage acro
 </div>
 <br>
 
-However, once you get narrow down the type of care a drug addicted pregnant women needs the opportunities are much less:
+However, once you narrow down the type of care a drug addicted pregnant women needs the opportunities are much less:
 * 20 Transitional Housing Substance abuse facilitiees
 * less 4 facilities that dontt treat opoid addiction or don't use medication to treat addictions
 * 16 remaining facilities for Colorado's addicted pregnant mothers
