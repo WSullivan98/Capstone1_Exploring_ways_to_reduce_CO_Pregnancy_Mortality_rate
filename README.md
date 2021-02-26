@@ -1,4 +1,5 @@
-# Capstone1: Exploring ways to reduce CO Pregnancy Mortality rate
+Capstone1: 
+# Exploring ways to reduce Colorado's pregnancy mortality rate
 
 
 
@@ -49,11 +50,23 @@ The dataset for the most part is good specifically around the standadization of 
 
 * The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
 
+## Care Facilities:
+Colorado has over 506 different treatment facilities listed in the SAMHSA database.
+<div align="center">
+<img src='images/facilities by type.png' height='200'>
+</div>
+<br>
 
+The facilities as a whole provide a very good amount of treatment covereage across the state
 <div align="center">
 <img src='images/SAMHSA_all_facilities.png' height='400'>
 </div>
 <br>
+
+However, once you get narrow down the type of care a drug addicted pregnant women needs the opportunities are much less:
+20 Transitional Housing Substance abuse facilitiees
+less 4 facilities that dont treat opoid addiction or doesn't use medication to treat addiction
+16 remaining facilities for Colorado's addicted pregnant mothers
 
 
 <div align="center">
@@ -61,7 +74,19 @@ The dataset for the most part is good specifically around the standadization of 
 </div>
 <br>
 
+But with the right guidance one can find the path to a "Special Connections" facility whose addresses aren't publicly listed, and require a formal application process and often a waiting list.  Colorado Special Connections facilites routinely serve between 150-200 patients a year and are experiancing a growing demand.  As the front range population continues to grow more facilities may need to be broght into this program.
+
 <div align="center">
 <img src='images/sc_map.png' height='400'>
+</div>
+<br>
+
+
+# User Experiance at the top of the Funnel
+
+As a drug addicted pregnant women or a loved one navigating life is difficult enough. Now they have to navigate the intersection of medical care, medicaid and mental healthcare to get help for their addiction on their child.  Whenever they search on Google the page is dominated by scary stories, academic or medical journals or "hotline" phonenumbers. 
+
+<div align="center">
+<img src='https://media.giphy.com/media/sbXGX9t1O2GE8k7NQf/giphy.gif' height='400'>
 </div>
 <br>

@@ -22,15 +22,24 @@ def select_cols(df, cols):
     return df
 
 def drop_empty_rows(df):
+    '''
+    returns df with rows with na, nat, nan, etc removed
+    '''
     df.dropna(inplace=True)
     return df
 
 def phone_dashes(df):
+    '''
+    returns df with phone numbers in a dashed format
+    '''
     df['Phone'] = df['Phone'].str.replace('.','-')
     return df
 
 
 def line_of_best_fit(x,y):
+    '''
+    return an array for the of line of best fit to be used for plotting or forecasting
+    '''
     m, b = np.polyfit(x, y,1)
     line_of_best_fit = m*x+b 
     return line_of_best_fit
