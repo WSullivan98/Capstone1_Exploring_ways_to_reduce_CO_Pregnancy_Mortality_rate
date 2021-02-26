@@ -71,8 +71,8 @@ The facilities as a whole provide a very good amount of treatment covereage acro
 <br>
 
 However, once you narrow down the type of care a drug addicted pregnant women needs the opportunities are much less:
-* 20 Transitional Housing Substance abuse facilitiees
-* less 4 facilities that dontt treat opoid addiction or don't use medication to treat addictions
+* 20 Transitional Housing Substance abuse facilities
+* less 4 facilities that dont treat opoid addiction or don't use medication to treat addictions
 * 16 remaining facilities for Colorado's addicted pregnant mothers
 
 
