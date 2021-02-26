@@ -9,7 +9,7 @@ In December 2017, my wife and I helped a pregnant women struggling with substanc
 
 * Pregnancy Mortality Rate or Maternal Mortality Rate - is the rate of mortality from pregnancy to 41 days after birth per 100,0000 births and is commonly used internationally.
 
-Colorado PAMR is shown below as 47 deaths/100,000 births in 2016.  Nationally, Colorado has the fifth lowest pregnancy mortality rate of 11.4 compared to 58.1 in Louisiana.
+Colorado PAMR is shown below as 47 deaths/100,000 births in 2016.  Nationally, Colorado has the fifth lowest pregnancy mortality rate of 11.4 compared to Louisiana's 58.1 which is the worst in the nation.
 
 <div align="center">
 <img src='images/co_pamr.png' height='400'>
