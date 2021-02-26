@@ -25,6 +25,11 @@ def drop_empty_rows(df):
     df.dropna(inplace=True)
     return df
 
+def phone_dashes(df):
+    df['Phone'] = df['Phone'].str.replace('.','-')
+    return df
+
+
 def line_of_best_fit(x,y):
     m, b = np.polyfit(x, y,1)
     line_of_best_fit = m*x+b 
