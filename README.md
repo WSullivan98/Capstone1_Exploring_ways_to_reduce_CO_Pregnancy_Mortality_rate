@@ -17,7 +17,6 @@ Unfortunatly, the United States is 34th out of 36th amongst OECD countries world
 </div>
 <br>
 
-Colorado is considered a leader of change on this topic as it institued "Maternal Mortality Review Committee' in 1993 and for over forty has had a special medicaid funding program called "Special Connections" which provide up to 12 months of residential substance abuse treatment for expecting and recent mothers.
 
 Colorado University Anschutz Medical Campus study that encompassed 94 pregnancy-associated deaths from 2008-2016 show 30% (29 out of 94) of pregnancy associated deaths were due to overdose and suicide.  In this study the suicides by drug overdose was categorized as in the suicide category which is why its highlighted along with drug overdose in the chart below.
 
@@ -26,25 +25,29 @@ Colorado University Anschutz Medical Campus study that encompassed 94 pregnancy-
 </div>
 <br>
 
-So this brings us to our question: What is Colorado doing to help pregnant women with substance abuse issues? And more importantly how can Colorado improve on what it is currently doing.
+So this brings us to our question: 
+
+# What is Colorado doing to help pregnant women with substance abuse issues? And more importantly how can Colorado improve on what it is currently doing.
 
 We will address the problem first from a top down perspective:
 
-Governance: 
+## Governance: 
+Colorado is considered a leader of change on this topic as it institued "Maternal Mortality Review Committee' in 1993. The MMRC holds regular meetings, commissions studies and regularly reviews the efficacy of Colorado initiatives to reduce this the growing pregnancy mortality rate.
+## Funding: 
+For over forty has had a special medicaid funding program called "Special Connections" which provide up to 12 months of residential substance abuse treatment for expecting and recent mothers.
 
-Funding: 
 
-Data collection:
+## Data collection:
 https://data-cdphe.opendata.arcgis.com/datasets/samhsa-colorado-substance-abuse-and-mental-health-service-providers/data
 
 The dataset for the most part is good specifically around the standadization of categorical values.
 
-Lists 506 Substance Abuse and Mental Health service providers   
+* Lists 506 Substance Abuse and Mental Health service providers   
     however, 60% of the facilities listed under the generic term Substance abuse treatment compared to the roughly 200 facilities which provide a more detailed description of services.
 
-Additionally, roughly 70% of the facilities do not have listed facility type to address if they are a hospital, outpatient clinic, residential treatment, or a psychiatric unit.
+* Additionally, roughly 70% of the facilities do not have listed facility type to address if they are a hospital, outpatient clinic, residential treatment, or a psychiatric unit.
 
-The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
+* The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
 
 
 <div align="center">
