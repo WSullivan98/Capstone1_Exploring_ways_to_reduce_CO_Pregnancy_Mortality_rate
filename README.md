@@ -20,7 +20,7 @@ Unfortunatly, the United States is 34th out of 36th amongst OECD countries world
 
 
 <div align="center">
-<img src='images/OECD_Pregnancy_Mortality_Rates.png' height='400'>
+<img src='images/OECD_Pregnancy_Mortality_Rates.png' height='500'>
 </div>
 <br>
 
