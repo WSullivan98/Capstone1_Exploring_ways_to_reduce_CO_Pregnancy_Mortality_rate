@@ -49,7 +49,7 @@ https://data-cdphe.opendata.arcgis.com/datasets/samhsa-colorado-substance-abuse-
 
 The dataset is 506 rows by 41 columns and does have standardized categorical values.
 
-* Of the 506 Substance Abuse and Mental Health service providers 60% of the facilities are listed under the generic term Substance Abuse Treatment compared to the roughly 200 facilities which provide a more detailed description of services.
+* Of the 506 Substance Abuse and Mental Health service providers, 60% of the facilities are listed under the generic term Substance Abuse Treatment compared to the roughly 200 facilities which provide a more detailed description of services.
 
 * Roughly 70% of the facilities do not have listed facility type to address if they are a hospital, outpatient clinic, residential treatment, or a psychiatric unit.
 
