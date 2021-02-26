@@ -105,7 +105,7 @@ As a drug addicted pregnant women navigating life is difficult enough. Now they 
 </div>
 <br>
 
-Part II of this project will review the efficacy of following in order to help make the first step to getting treatment a little bit easier.:
+Part II of this project will review the efficacy of the following in order to help make the first step to getting treatment a little bit easier.:
 * SEO
 * PPC
 * A/B testing
