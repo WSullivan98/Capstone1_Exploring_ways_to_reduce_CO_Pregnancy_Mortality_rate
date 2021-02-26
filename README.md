@@ -58,7 +58,7 @@ The dataset is 506 rows by 41 columns and does have standardized categorical val
 * Lastly, the dataset didn't have all the "Special Connections Facilities" which had to be ported into the dataset.
 
 ## Care Facilities:
-Colorado has over 506 different treatment facilities listed in the SAMHSA database. The different categorial types are listed below showing the showing the different types of treatment but also illustrates how much a consumer has to learn about the space in order to appropriately select the treatment facility of best fit.
+Colorado has over 506 different treatment facilities listed in the SAMHSA database. The seven different categorial types are listed below showing the showing the different types of treatment but also illustrates how much a consumer has to learn about the space in order to appropriately select the treatment facility of best fit.
 <div align="center">
 <img src='images/facilities by type.png' height='200'>
 </div>
