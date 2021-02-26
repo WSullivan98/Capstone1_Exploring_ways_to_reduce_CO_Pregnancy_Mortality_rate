@@ -101,7 +101,7 @@ With the right guidance one can find the path to a "Special Connections" facilit
 As a drug addicted pregnant women navigating life is difficult enough. Now they have to navigate the intersection of medical care, medicaid and mental healthcare to get help for their addiction.  Whenever they search on Google the page is dominated by scary stories, academic or medical journals or "hotline" phone numbers. 
 
 <div align="center">
-<img src='https://media.giphy.com/media/sbXGX9t1O2GE8k7NQf/giphy.gif' height='400'>
+<img src='https://media.giphy.com/media/sbXGX9t1O2GE8k7NQf/giphy.gif' height='500'>
 </div>
 <br>
 
