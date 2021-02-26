@@ -55,7 +55,7 @@ The dataset is 506 rows by 41 columns and does have standardized categorical val
 
 * The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last data on beds I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
 
-* Lastly, the dataset didn't have all the "Special Connections Facilities" which had to port into the dataset.
+* Lastly, the dataset didn't have all the "Special Connections Facilities" which had to be ported into the dataset.
 
 ## Care Facilities:
 Colorado has over 506 different treatment facilities listed in the SAMHSA database. The different categorial types are listed below showing the showing the different types of treatment but also illustrates how much a consumer has to learn about the space in order to appropriately select the treatment facility of best fit.
