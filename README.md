@@ -1,4 +1,4 @@
-Capstone1: 
+Capstone 1: 
 # Exploring ways to reduce Colorado's pregnancy mortality rate
 
 In December 2017, my wife and I helped a pregnant women struggling with substance abuse through her last trimester.  We adopted our youngest son, Theodore, from her through what is called direct placement adoption.  During those three months we learned first hand the challenges pregnant women struggling with substance abuse face.  She was malnourished, financially insecure, depressed and under physical duress.  She had a lot to escape from and methamphetamemes are cheap but highly addictive.  On her first prenatal visit she learned the extensive risk her baby was in and became suicidal.  The only place nearby that would take a suicadal, drug addicted, high risk pregnant women was the emergency room.  However, she still had another two months to go before she gave birth.  Ultimately, we were able to find a substance abuse treatment facility that would put her through a two week detox program.  The facility was over two hours away which made visits too difficult for us.  Through the help of another family we were able to find a trailer home and a part time job in a safer part of town when she got out of the facility. Her challenges are not uncommon as around 27 expecting or new mothers pass away from pregnancy associated issues in Colorado every year.
@@ -9,7 +9,7 @@ In December 2017, my wife and I helped a pregnant women struggling with substanc
 
 * Pregnancy Mortality Rate or Maternal Mortality Rate - is the rate of mortality from pregnancy to 41 days after birth per 100,0000 births and is commonly used internationally.
 
-Colorado PAMR is shown below as 47 deaths/100,000 births in 2016.  Nationally, Colorado has the fifth lowest pregnancy mortality rate of 11.4 compared to Louisiana's 58.1 which is the worst in the nation.
+Colorado's PAMR is shown below as 47 deaths/100,000 births in 2016.  Nationally, Colorado has the fifth lowest pregnancy mortality rate of 11.4 compared to Louisiana's 58.1 which is the worst in the nation.
 
 <div align="center">
 <img src='images/co_pamr.png' height='400'>
