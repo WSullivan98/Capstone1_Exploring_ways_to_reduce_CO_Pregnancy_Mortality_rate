@@ -44,7 +44,7 @@ The Colorado "Maternal Mortality Review Committee' (MMRC) started meeting in 199
 For over forty years Colorado has had a special medicaid funding program called "Special Connections" which provide up to 12 months of residential substance abuse treatment for expecting and recent mothers.
 
 ## Data collection:
-Colorado health department tracks "Substance Abuse Providers", "Provider Shortages" and "Drug Overdose Deaths."  We will focus our analysis on the Substance Abuse and Mental Health Service Providers data set.
+Colorado health department tracks "Substance Abuse Providers", "Provider Shortages" and "Drug Overdose Deaths."  We will focus our analysis on the Substance Abuse and Mental Health Service Providers (SAMSHA) data set.
 https://data-cdphe.opendata.arcgis.com/datasets/samhsa-colorado-substance-abuse-and-mental-health-service-providers
 
 The dataset is 506 rows by 41 columns and does have standardized categorical values.
