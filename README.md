@@ -28,7 +28,7 @@ Unfortunatly, the United States is 34th out of 36th amongst OECD countries world
 Colorado University Anschutz Medical Campus conducted the studies shown above that encompassed 94 pregnancy-associated deaths from 2008-2016 which found 30% (29 out of 94) of pregnancy associated deaths were due to overdose and suicide.  In this study the suicides by drug overdose was categorized in the suicide category which is why its highlighted along with drug overdose in the chart below.
 
 <div align="center">
-<img src='images/causes_pie.png' height='400'>
+<img src='images/causes_pie.png' height='500'>
 </div>
 <br>
 
