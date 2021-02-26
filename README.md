@@ -9,15 +9,14 @@ Colorado loses about 7 expecting or recent mothers each year.  The metric to tra
 </div>
 <br>
 
-
 <div align="center">
-<img src='images/causes_pie.png' height='400'>
+<img src='images/OECD_Pregnancy_Mortality_Rates.png' height='400'>
 </div>
 <br>
 
 
 <div align="center">
-<img src='images/OECD_Pregnancy_Mortality_Rates.png' height='400'>
+<img src='images/causes_pie.png' height='400'>
 </div>
 <br>
 
