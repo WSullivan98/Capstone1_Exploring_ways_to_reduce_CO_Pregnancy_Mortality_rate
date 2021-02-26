@@ -28,7 +28,24 @@ Colorado University Anschutz Medical Campus study that encompassed 94 pregnancy-
 
 So this brings us to our question: What is Colorado doing to help pregnant women with substance abuse issues? And more importantly how can Colorado improve on what it is currently doing.
 
-We will address the problem first from a top down perspective.
+We will address the problem first from a top down perspective:
+
+Governance: 
+
+Funding: 
+
+Data collection:
+https://data-cdphe.opendata.arcgis.com/datasets/samhsa-colorado-substance-abuse-and-mental-health-service-providers/data
+
+The dataset for the most part is good specifically around the standadization of categorical values.
+
+Lists 506 Substance Abuse and Mental Health service providers   
+    however, 60% of the facilities listed under the generic term Substance abuse treatment compared to the roughly 200 facilities which provide a more detailed description of services.
+
+Additionally, roughly 70% of the facilities do not have listed facility type to address if they are a hospital, outpatient clinic, residential treatment, or a psychiatric unit.
+
+The biggest glaring gap in the data set was the lack of information on number of beds or patient capacity per facility. The last I could find information on SAMSHA bed counts was a report in 2012 which is most likely outdated by now.
+
 
 <div align="center">
 <img src='images/SAMHSA_all_facilities.png' height='400'>
