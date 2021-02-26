@@ -98,7 +98,7 @@ With the right guidance one can find the path to a "Special Connections" facilit
 
 ## User Experiance at the top of the Funnel
 
-As a drug addicted pregnant women or a loved one navigating life is difficult enough. Now they have to navigate the intersection of medical care, medicaid and mental healthcare to get help for their addiction on their child.  Whenever they search on Google the page is dominated by scary stories, academic or medical journals or "hotline" phonenumbers. 
+As a drug addicted pregnant women navigating life is difficult enough. Now they have to navigate the intersection of medical care, medicaid and mental healthcare to get help for their addiction.  Whenever they search on Google the page is dominated by scary stories, academic or medical journals or "hotline" phone numbers. 
 
 <div align="center">
 <img src='https://media.giphy.com/media/sbXGX9t1O2GE8k7NQf/giphy.gif' height='400'>
