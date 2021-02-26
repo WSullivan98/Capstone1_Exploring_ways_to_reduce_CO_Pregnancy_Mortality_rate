@@ -16,9 +16,13 @@ def select_cols(df, cols):
     '''
     columns_to_drop = []
     for x in df.columns:
-        if x not in columns_to_keep:
+        if x not in cols:
             columns_to_drop.append(x)
     df.drop(columns_to_drop, inplace=True, axis=1)
+    return df
+
+def drop_empty_rows(df):
+    df.dropna(inplace=True)
     return df
 
 def line_of_best_fit(x,y):
@@ -27,4 +31,3 @@ def line_of_best_fit(x,y):
     return line_of_best_fit
 
 
-if __name__ == '__main__':
